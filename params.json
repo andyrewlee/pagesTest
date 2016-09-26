@@ -1,6 +1,6 @@
 {
-  "name": "Pagestest",
-  "tagline": "testing github pages",
+  "name": "Welcome and Download Xcode",
+  "tagline": "Let's get to the tools!",
   "body": "# Welcome \r\nTo start building iOS applications we need a program called Xcode. Xcode is an **Integrated Development Environment (IDE)** for developing applications for Apple which is a fancy way of saying that everything we need to make applications for Apple is provided by one program.\r\n\r\n## Xcode\r\nJust around the time a new iOS version is released to the public, Apple also releases a new version of Xcode. **Apple is about to release iOS 10 and Xcode 8.**\r\n\r\n### Xcode 8 beta\r\nWe shouldn't just wait for Xcode 8 and iOS 10 to be officially announced to the public. Apple provides Xcode 8 beta so that developers can start anticipating for iOS 10. Xcode 8 beta is where we want to start learning because **Xcode 8, Swift 3, and iOS 10 are all going to become the norm very soon**.\r\n\r\n## Download Xcode\r\nWe can download Xcode in three steps.\r\n\r\n### 1. Google 'Xcode 8 beta'\r\n![Imgur](http://i.imgur.com/aB0E7jo.png)\r\n### 2. Login\r\n![Imgur](http://i.imgur.com/LJ8Yy93.png)\r\nWe can use the same Apple ID that we use to login to iTunes.\r\n\r\n### 3. Download\r\n![Imgur](http://i.imgur.com/OK1Jce7.png)\r\nDownload the latest beta release (it might be different form the one showed in picture).",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
